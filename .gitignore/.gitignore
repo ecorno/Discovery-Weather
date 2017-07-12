@@ -1,0 +1,5 @@
+mkdir ~/stsa/WatsonDiscovery
+cd ~/stsa/WatsonDiscovery
+git clone https://github.com/ibm-cloud-architecture/refarch-cognitive-discovery-broker.git
+cd refarch-cognitive-discovery-broker
+
